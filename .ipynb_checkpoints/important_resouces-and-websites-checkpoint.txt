@@ -1,0 +1,13 @@
+
+
+1 - Reliably download historical market data from with Python:
+
+https://aroussi.com/post/python-yahoo-finance
+
+import yfinance as yf
+
+
+2- 
+
+
+
